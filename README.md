@@ -1,6 +1,6 @@
 # Quick Start
 
-Launch .bat
+Launch .bat in "Backend"
 
 Use Chrome browser
 
